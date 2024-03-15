@@ -18,6 +18,9 @@ Scan this Qr code :
 
 It will open your instagram, and now point you insta camera towards the image :
 
+![Image to track](https://github.com/P09s/My-journey-as-an-AR-creator/assets/114149690/f03f5569-0bdf-4332-a760-784689391130)
+
+
 
 Well they popped out of screen — Are they dancing on tap or not 😁 !!
 
