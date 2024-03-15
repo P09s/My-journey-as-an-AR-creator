@@ -11,6 +11,7 @@ Sir introduced us with that program “Community of Metaverse” by the end of y
 Now, that is all about what the program actually is but you’ll find this much more interesting if I just show you some of my AR effects ;)
 
 Scan this Qr code :
+
 ![halloween qr](https://github.com/P09s/My-journey-as-an-AR-creator/assets/114149690/df5e2f33-0b2a-4a83-8805-c629a007ebcc)
 
 
