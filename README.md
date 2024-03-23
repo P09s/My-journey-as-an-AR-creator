@@ -37,4 +37,4 @@ The Metaspark Studio requires no coding to create these effects and it looks lik
 Well this is the crucks of what the program is and how I developed the effects and you might be the next !!
 
 
-----  ### You can find it on my medium too ✨
+### You can find it on my medium too ✨
