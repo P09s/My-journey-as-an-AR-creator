@@ -35,3 +35,6 @@ The Metaspark Studio requires no coding to create these effects and it looks lik
 ![Screenshot (855)](https://github.com/P09s/My-journey-as-an-AR-creator/assets/114149690/d7bfc860-1436-4ef8-9fdb-fba6e774ac0b)
 
 Well this is the crucks of what the program is and how I developed the effects and you might be the next !!
+
+
+----  ### You can find it on my medium too ✨
